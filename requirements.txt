@@ -1,0 +1,11 @@
+numpy
+sklearn
+pandas
+matplotlib
+seaborn
+jupyter
+filelock
+importlib-metadata<2
+ipykernel
+emoji
+tqdm
