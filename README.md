@@ -1,4 +1,4 @@
-# cv_using_cnn
+# Deep Learning Concepts
 
 Creating conda env
 
@@ -6,7 +6,7 @@ Creating conda env
 conda create -p venv python==3.7 -y
 ```
 
-Activate conda env  
+Activate conda env
 
 ```
 conda activate venv/
